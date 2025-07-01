@@ -1,1 +1,2 @@
 # Nash-Equilibrium-Between-Traders-and-Brokers-Codes
+The code written here is an attempted creation based on the paper by "Cartea, Á., Jaimungal, S., & Sánchez-Betancourt, L. (2024). Nash Equilibrium between Brokers and Traders (arXiv:2407.10561) [Preprint]. arXiv. https://arxiv.org/abs/2407.10561". The code is created for personal use during my PhD and I did not contribute to the origional paper this code is based on.
